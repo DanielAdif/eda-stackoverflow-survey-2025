@@ -28,7 +28,7 @@ Key numeric columns (`ConvertedCompYearly`, `YearsCode`, `WorkExp`) have 20–40
 
 ![Violin + Strip Plot](img/01_violin_ai_comp.png)
 
-Daily AI users (873 respondents) show a notably higher and tighter salary distribution than non-users (345 respondents). The violin width reveals that non-users cluster at lower salary bands while daily users span a broader range at the upper end. The log scale exposes the full spread without being dominated by outliers.
+Frequent AI users (weekly and daily) show higher salary distributions than non-users and planning-soon respondents, though the gap is moderate (~$3–6K at the median). Notably, weekly users show a slightly higher median salary than daily users, suggesting diminishing returns at the highest usage frequency. The violin shapes reveal that non-users cluster more tightly at lower salary bands, while AI users have heavier upper tails.
 
 ---
 
