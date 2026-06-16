@@ -44,7 +44,7 @@ Frequent AI users (weekly and daily) show higher salary distributions than non-u
 
 ![Diverging Bar](img/03_diverging_devtype_ai_premium.png)
 
-The salary premium for AI adoption is highly role-dependent. Engineering managers who use AI tools earn ~$66K more than their non-adopting peers — the largest positive premium. Conversely, DevOps and desktop developers show a negative premium (~-$40K and ~-$36K), suggesting that non-adopters in those roles tend to be highly-paid specialists in legacy or niche systems.
+The salary premium for AI adoption is highly role-dependent. Engineering managers who use AI tools earn approximately $66K more than their non-adopting peers — the largest positive premium. Conversely, DevOps and desktop developers show a negative premium (around -$40K and -$36K), suggesting that non-adopters in those roles tend to be highly-paid specialists in legacy or niche systems.
 
 ---
 
