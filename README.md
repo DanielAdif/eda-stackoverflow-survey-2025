@@ -83,14 +83,3 @@ The gaps between current and aspiring users are narrow (2–3 percentage points)
 3. **Modern ecosystems lead AI adoption; the field is converging** — Go, TypeScript, and Kotlin communities are 10–15 percentage points ahead of C and PHP. But slope analysis shows the momentum gap is just 2–3pp, suggesting near-universal AI adoption across major languages is approaching.
 
 ---
-
-## How to Reproduce
-
-```bash
-pip install pandas numpy matplotlib seaborn nbformat jupyter
-cd notebooks
-python -m jupyter notebook eda.ipynb
-# Kernel → Restart & Run All
-```
-
-All figures are regenerated in `img/` on each full run. No external APIs or random seeds — output is fully deterministic.
